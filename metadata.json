@@ -1,0 +1,5 @@
+{
+  "name": "Chennai Stays",
+  "description": "A modern web application to discover and browse available hotels in Chennai, with details generated dynamically by AI.",
+  "requestFramePermissions": []
+}
